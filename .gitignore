@@ -11,6 +11,8 @@ coverage
 coverage.json
 typechain
 
+/app/style/app.css
+
 #Hardhat files
 cache
 artifacts
